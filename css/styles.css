@@ -63,3 +63,16 @@
   #h1{
       color: beige;
   }
+  footer {
+    height: 150px;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .footer ul li {
+    display: inline-block;
+    margin: 5px;
+  }
