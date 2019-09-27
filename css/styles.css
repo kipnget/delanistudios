@@ -129,7 +129,29 @@
     padding-top: 10%;
     font-weight: bold;
     color: beige;
+    font-size: 40px;
   }
   .paragraph1{
       color: white;
+      font-size: 30px;
+      font-weight: bold;
   }
+  #para{
+      color: white;
+      font-size: 25px;
+  }
+  .row3 {
+    width: 100%;
+    height: 300px;
+    padding: 0px 20px;
+    margin-right: -15px;
+    margin-left: -15px;
+    text-align: center;
+    background-size: cover;
+    font-size: 20px;
+  }
+  .paragraph3{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
