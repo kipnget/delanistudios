@@ -76,3 +76,60 @@
     display: inline-block;
     margin: 5px;
   }
+  .headerMain {
+    position: relative;
+  }
+  .toggleDesignLogo {
+    display: none;
+    text-align: center;
+    font-family: Signika Negative, sans-serif;
+  }
+  
+  .toggleDevLogo {
+    display: none;
+    text-align: center;
+    font-family: Signika Negative, sans-serif;
+  }
+  
+  .toggleProductLogo {
+    display: none;
+    text-align: center;
+    font-family: Signika Negative, sans-serif;
+  }
+  #inlineDesign {
+    text-align: center;
+  }
+  
+  #inlineDev {
+    text-align: center;
+  }
+  
+  #inlineProduct {
+    text-align: center;
+  }
+  
+  #inline {
+    text-align: center;
+  }
+  
+  #headerImg2 {
+    padding-top: 15%;
+  }
+  .row1 {
+    width: 100%;
+    height: 600px;
+    padding: 0px 20px;
+    margin-right: -15px;
+    margin-left: -15px;
+    text-align: center;
+  }
+  
+  .row1 h1 {
+    position: relative;
+    padding-top: 10%;
+    font-weight: bold;
+    color: beige;
+  }
+  .paragraph1{
+      color: white;
+  }
