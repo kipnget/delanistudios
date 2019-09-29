@@ -1,29 +1,29 @@
 $(document).ready(function() {
     $("#designLogo").click(function() {
-      $("#inlineDesign").hide();
-      $(".toggleDesignLogo").show();
+      $("#inlineDesign").slideUp();
+      $(".toggleDesignLogo").slideDown();
     });
     $(".toggleDesignLogo").click(function() {
-      $(".toggleDesignLogo").hide();
-      $("#inlineDesign").show();
+      $(".toggleDesignLogo").slideUp();
+      $("#inlineDesign").slideDown();
     });
   
     $("#devLogo").click(function() {
-      $("#inlineDev").hide();
-      $(".toggleDevLogo").show();
+      $("#inlineDev").slideUp();
+      $(".toggleDevLogo").slideDown();
     });
     $(".toggleDevLogo").click(function() {
-      $(".toggleDevLogo").hide();
-      $("#inlineDev").show();
+      $(".toggleDevLogo").slideUp();
+      $("#inlineDev").slideDown();
     });
   
     $("#productLogo").click(function() {
-      $("#inlineProduct").hide();
-      $(".toggleProductLogo").show();
+      $("#inlineProduct").slideUp();
+      $(".toggleProductLogo").slideDown();
     });
     $(".toggleProductLogo").click(function() {
-      $(".toggleProductLogo").hide();
-      $("#inlineProduct").show();
+      $(".toggleProductLogo").slideUp();
+      $("#inlineProduct").slideDown();
   
     });
   });
@@ -49,4 +49,3 @@ $(document).ready(function() {
     }
     event.preventDefault(); 
   });  
-  
