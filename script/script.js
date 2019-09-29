@@ -27,6 +27,7 @@ $(document).ready(function() {
   
     });
   });
+  
 
   $("#submission").submit(function(event){
     var data_1 = $("input:first").val();
