@@ -27,6 +27,7 @@ $(document).ready(function() {
   
     });
   });
+
   $(document).ready(function() {
     $('.hover').hover(function(){
 		$('.port-desc',this).slideToggle('slow');
@@ -46,17 +47,6 @@ $(document).ready(function() {
       $(".message").text("Error!!! Please fill in all the details correctly");
       $(".message").addClass("error");
     }
-    event.preventDefault();
+    event.preventDefault(); 
   });  
-  // JQUERY
-// lazy load
-$(function(){
-  $(".lazy").Lazy();
-});
-
-$(document).ready(function () {
-  // loader
-  $("#Loader").fadeOut(1000);
-  $("#head").addClass("onLoad").fadeIn(2000);
-  $("html, body").scrollTop(0);
-});
+  
