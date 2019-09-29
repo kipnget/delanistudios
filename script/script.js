@@ -27,7 +27,13 @@ $(document).ready(function() {
   
     });
   });
-  
+  $(document).ready(function() {
+    $('.hover').hover(function(){
+		$('.port-desc',this).slideToggle('slow');
+	}, function(){
+		$('.port-desc',this).slideToggle('slow');
+    });
+});
 
   $("#submission").submit(function(event){
     var data_1 = $("input:first").val();
