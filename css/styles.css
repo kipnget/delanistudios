@@ -6,7 +6,7 @@ body{
   font-family: "Gothic", sans-serif;
 }
 .row5 {
-    width: 100%;
+    width: 120%;
     height: auto;
     margin-right: -20px;
     margin-left: -20px;
@@ -18,7 +18,7 @@ body{
     margin-bottom: 30px;
   }
   .row6 {
-    width: 100%;
+    width: 120%;
     height: auto;
     margin-right: -20px;
     margin-left: -20px;
@@ -54,7 +54,7 @@ body{
       
   }
   #row5 {
-    width: 100%;
+    width: 120%;
     height: auto;
     margin-right: -20px;
     margin-left: -20px;
@@ -282,10 +282,11 @@ body{
     display: none;
     opacity: 0.6;
     background:#eff1ee;
-    width: 148px;
+    width: 186px;
     position: absolute;
     bottom: 0px;
-    padding: 28px;
+    padding: 44px;
+    color: purple;
   }
   .hover {
     position: relative;
