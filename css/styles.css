@@ -196,7 +196,7 @@ body{
     }
   }
   #contact{
-    
+    background-image: url('../images/c_image.jpg');
     padding: 20px 5px;
     color: white;
   }
