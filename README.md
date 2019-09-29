@@ -7,7 +7,7 @@
 Delani-studio is a web application that illustrates what projects we do as a design studio. It includes a portfolio of some of our projects, and a detailed description of what we do from inception to completion of the project. Further to this, the application is built to incoporate bootsrap styling and jQuery effects as an illustration of our proffeciency in the afformentioned fields.The application also includes a form that allows users to enter their names and emails.
 ## Setup/Installation Requirements
 ACCESS THE WEBSITE BY TAPPING THE ABOVE LINK OR COPY AND PASTE IT ON YOUR SEARCH BAR.
-
+http://kipnget.github.io/delanistudios
 Alternatively, you can clone this project from https://github.com/kipnget/delanistudios.git
 Extract the file to a folder
 Open index.html with any browser of your choice. 
@@ -18,7 +18,7 @@ Open index.html with any browser of your choice.
 | User enters valid mail and email in the form   | email: abc@gmail.com name: Dan | name and email valid                |
 | User enters text in the message text area      | Hello form submitted           | Thank you for submitting your form. |
 ## Link to view Application
-
+http://kipnget.github.io/delanistudios
 
 ## Known Bugs
 No issues with the project as it works perfectly.
